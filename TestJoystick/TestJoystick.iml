@@ -13,5 +13,7 @@
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" name="KotlinJavaRuntime (2)" level="project" />
     <orderEntry type="library" name="opencv-300" level="project" />
+    <orderEntry type="library" name="jna" level="project" />
+    <orderEntry type="library" name="examples" level="project" />
   </component>
 </module>
